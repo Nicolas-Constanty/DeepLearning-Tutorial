@@ -1,0 +1,4 @@
+Data/
+*.ubyte
+*txt
+tensorflowModels/
