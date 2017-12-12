@@ -15,7 +15,6 @@ There is tree differents learning styles :
  * Reinforcement
  
 **Deep Learning** is a subcategory of machine learning, it derives more precisely of neural network. The deeplearning consists to combine succesive layers of neural network.
-Nicolas-Constanty/DeepLearning-Tutorial/blob/master/Deep%20learning%20with%20keras/Deep%20learning%20with%20Keras.ipynb
 ### 1. [Linear Regression](https://plot.ly/~nicolasconstanty/10)
 ### 2. [The Perceptron](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/blob/master/The%20Perceptron/Perceptron.ipynb)
 ### 3. [Simple Neural Network *aka Multilayered Perceptron*](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/blob/master/Multilayered%20Perceptron/Simple%20Neural%20Network.ipynb)
