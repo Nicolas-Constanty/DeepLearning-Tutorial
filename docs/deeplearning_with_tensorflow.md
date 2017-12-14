@@ -371,7 +371,7 @@ plot_images(images=images, cls_true=cls_true)
 ```
 
 
-![png](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/tree/master/images/output_24_0.png)
+![png](https://raw.githubusercontent.com/Nicolas-Constanty/DeepLearning-Tutorial/master/images/output_24_0.png)
 
 
 
@@ -1149,7 +1149,7 @@ print_test_accuracy(show_example_errors=True)
     
 
 
-![png](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/tree/master/images/output_74_1.png)
+![png](https://raw.githubusercontent.com/Nicolas-Constanty/DeepLearning-Tutorial/master/images/output_74_1.png)
 
 
 
@@ -1163,7 +1163,7 @@ plot_image(image1)
     
 
 
-![png](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/tree/master/images/output_75_1.png)
+![png](https://raw.githubusercontent.com/Nicolas-Constanty/DeepLearning-Tutorial/master/images/output_75_1.png)
 
 
 
@@ -1172,7 +1172,7 @@ plot_conv_weights(weights=weights_conv1)
 ```
 
 
-![png](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/tree/master/images/output_76_0.png)
+![png](https://raw.githubusercontent.com/Nicolas-Constanty/DeepLearning-Tutorial/master/images/output_76_0.png)
 
 
 
@@ -1181,7 +1181,7 @@ plot_conv_layer(layer=layer_conv1, image=image1)
 ```
 
 
-![png](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/tree/master/images/output_77_0.png)
+![png](https://raw.githubusercontent.com/Nicolas-Constanty/DeepLearning-Tutorial/master/images/output_77_0.png)
 
 
 
@@ -1190,7 +1190,7 @@ plot_conv_weights(weights=weights_conv2, input_channel=0)
 ```
 
 
-![png](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/tree/master/images/output_78_0.png)
+![png](https://raw.githubusercontent.com/Nicolas-Constanty/DeepLearning-Tutorial/master/images/output_78_0.png)
 
 
 
@@ -1199,7 +1199,7 @@ plot_conv_layer(layer=layer_conv2, image=image1)
 ```
 
 
-![png](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/tree/master/images/output_79_0.png)
+![png](https://raw.githubusercontent.com/Nicolas-Constanty/DeepLearning-Tutorial/master/images/output_79_0.png)
 
 
 
@@ -1208,7 +1208,7 @@ plot_conv_weights(weights=weights_conv3, input_channel=0)
 ```
 
 
-![png](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/tree/master/images/output_80_0.png)
+![png](https://raw.githubusercontent.com/Nicolas-Constanty/DeepLearning-Tutorial/master/images/output_80_0.png)
 
 
 
@@ -1217,7 +1217,7 @@ plot_conv_layer(layer=layer_conv3, image=image1)
 ```
 
 
-![png](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/tree/master/images/output_81_0.png)
+![png](https://raw.githubusercontent.com/Nicolas-Constanty/DeepLearning-Tutorial/master/images/output_81_0.png)
 
 
 
@@ -1226,7 +1226,7 @@ plot_conv_weights(weights=weights_conv4, input_channel=0)
 ```
 
 
-![png](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/tree/master/images/output_82_0.png)
+![png](https://raw.githubusercontent.com/Nicolas-Constanty/DeepLearning-Tutorial/master/images/output_82_0.png)
 
 
 
@@ -1235,7 +1235,7 @@ plot_conv_layer(layer=layer_conv4, image=image1)
 ```
 
 
-![png](https://github.com/Nicolas-Constanty/DeepLearning-Tutorial/tree/master/images/output_83_0.png)
+![png](https://raw.githubusercontent.com/Nicolas-Constanty/DeepLearning-Tutorial/master/images/output_83_0.png)
 
 
 
